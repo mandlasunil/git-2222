@@ -4,3 +4,5 @@ git
 maven
 jenkins
 sonarqube
+kubernetes
+spring boot
